@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               matteomt
+tagline:             meaningless and theoretically trashy elementary or mathematical toughts
+url:                 http://matteomt.github.io/
+paginate:            1
+baseurl:             /
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Matteo T
+  #url:              
+  #email:         
+
+# Custom vars
+version:             2.0.0
+github:              
+  repo:              https://github.com/Matteomt/matteomt.github.io/
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
